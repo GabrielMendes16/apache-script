@@ -18,4 +18,4 @@ Este script automatiza o processo de preparação de um servidor web com Apache.
 1. Dê permissão de execução ao script:
 
 ```bash
-chmod +x script.sh
+chmod +x apache.sh
